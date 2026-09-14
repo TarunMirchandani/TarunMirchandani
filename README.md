@@ -1,4 +1,5 @@
 ## Hi there 👋
+### 🚀 Frontend & Full-Stack Developer | Penetration Tester | AI & UI/UX Enthusiast | DSA 
 # 💫 About Me:
 ### 🚀 What I am up to
 - 🔭 **I’m currently working on:** Building AI/ML driven tools and exploring AGI frameworks.
